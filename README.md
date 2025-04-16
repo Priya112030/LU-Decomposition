@@ -49,10 +49,10 @@ result=lu_solve((piv,lu),B)
 print(result)
 ```
 ## Output:
-```
+
 ![alt text](ai1.png)
 ![alt text](ai2.png)
-```
+
 
 
 
