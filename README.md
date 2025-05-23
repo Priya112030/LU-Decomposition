@@ -15,9 +15,12 @@ Step 2:
 Prepare the lists from each linear equations and assign in np.array()
 
 Step 3:
-Using the np.linalg.solve(), we can find the solutions.
+Using scipy.linalg import lu ,we can find L and U matix.
 
 Step 4:
+By using lu_factor ,lu_solve .we can find lu decomposition matrix.
+
+Step 5:
 End the program
 
 ## Program:
